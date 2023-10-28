@@ -27,7 +27,7 @@ The results of this project have significant implications in various real-world 
    git clone https://github.com/shreya1312/Demographic-feature-recognition
 
 
-## View the results of AlexNET, resNET variations in the below links:
+## View the results of VGG16, AlexNET, resNET variations in the below links:
 
 1. https://htmlpreview.github.io/?https://raw.githubusercontent.com/shreya1312/Demographic-feature-recognition/main/FINAL_OPTIMAL_MODEL_VGG16-VARIATION.html
 2. https://htmlpreview.github.io/?https://raw.githubusercontent.com/shreya1312/Demographic-feature-recognition/main/MODEL1_ALEXNET-VARIATION.html
